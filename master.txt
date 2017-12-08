@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-Master
-branch1
-=======
-branch2
->>>>>>> branch2
+b1
+sua1
+sua 2
